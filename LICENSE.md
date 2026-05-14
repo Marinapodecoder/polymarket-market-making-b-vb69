@@ -1,4 +1,4 @@
-# 
+# Polymarket professional bot: trailing-stops & real-time-market-analysis offers the most advanced Polymarket bot, with trailing-stops and real-time-market-analysis. Ideal for
 
 
 
